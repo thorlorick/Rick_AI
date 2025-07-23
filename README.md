@@ -3,7 +3,7 @@
 Rick is a text-based personal coding assistant you run over SSH on a remote Debian machine.  
 He helps you **read, write, and reason about code** — especially Python, FastAPI, Docker, and PostgreSQL.
 
-## 🔧 What Rick Can Do -- NOTHING!!!!
+## 🔧 What Rick Can Do -- NOTHING!!!! ----- YET!!!!!!
 
 - Read and summarize Python code files
 - Generate or refactor code on request
